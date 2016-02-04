@@ -54,14 +54,25 @@ dismathportfolio-Pencil7of7Noise created by Classroom for GitHub
 - Fallacy-common form of incorrect reasoning which leads to invalid arguments.
 - Tautology-statement that is always true.
 - Superman isn't real.
+- I don't really understand how to use the rules of inferences.
 
 # WEEK 3
 
 - Proof
   - Methods of Proof
-    1. Direct Proof
-    2. Proof by Contraposition (indirect)
-    3. Vacuous & Trivial Proof
-    4. Proof by Contradiction (indirect)
+    - Direct Proof
+    - Proof by Contraposition (indirect)
+    - Vacuous & Trivial Proof
+    - Proof by Contradiction (indirect)
 - Closure property states that theresult would be part of the same set as its conditions.
   
+# WEEK 4
+
+- Proof
+  - Methods of Proof
+    - Proof by Equivalence
+    - Mathematical Induction
+      1. Basis Step
+      2. Inductive Step
+- Recursive Algorithm-solves a problem by reducing it to an instance of the same problem.
+- I got confused by numbers.
